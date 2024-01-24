@@ -40,3 +40,14 @@ A table:
 ![Profile Picture for Andrew T. Pipo on all social media](pfp.png)
 
 ---
+
+A Basic Python Program:
+
+'''
+a = 2
+b = 3
+c = a + b
+print(f"The value of c is {c}")
+'''
+
+---
