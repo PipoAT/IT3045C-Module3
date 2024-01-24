@@ -34,3 +34,9 @@ A table:
 | :----- | :----: | -----: |
 | This is a left-aligned cell with data | This is a center-aligned cell with data | This is a right-aligned cell with data |
 | This is also a left-aligned cell with data | This is also a center-aligned cell with data | This is also a right-aligned cell with data |
+
+---
+
+![Profile Picture for Andrew T. Pipo on all social media](pfp.png)
+
+---
