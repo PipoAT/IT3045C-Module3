@@ -14,6 +14,8 @@
 - Sequence Diagram
 - Class Diagram
 
+---
+
 Here is the link to my favorite markdown documentation: [GitHub Markdown Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
@@ -49,5 +51,17 @@ b = 3
 c = a + b
 print(f"The value of c is {c}")
 ```
+
+---
+
+```mermaid
+graph TD;
+    A[Start] --> B[Node 1];
+    B --> C[Node 2];
+    C --> D[Node 3];
+    C --> E[Node 4];
+    D --> F[End];
+    E --> F;
+    B --> G[Edge with Text];
 
 ---
