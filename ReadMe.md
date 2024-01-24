@@ -5,7 +5,7 @@
 **Name:** Andrew T. Pipo
 
 **Description:** This assignment allows students to experience working with markdown to improve effectiveness of README.md files.
----
+
 4 Types of Charts that can be made with Mermaid include:
 - Flowchart
 - Pie Chart
