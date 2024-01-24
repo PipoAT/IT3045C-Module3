@@ -15,6 +15,9 @@
 Here is the link to my favorite markdown documentation: [GitHub Markdown Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Three emojis:
+
 :smile:
+
 :heart:
+
 :thumbsup:
