@@ -21,3 +21,10 @@ Three emojis:
 :heart:
 
 :thumbsup:
+
+A table:
+
+| This is a left-aligned column | This is a center-aligned column | This is a right-aligned column |
+| :----- | :----: | -----: |
+| This is a left-aligned cell with data | This is a center-aligned cell with data | This is a right-aligned cell with data |
+| This is also a left-aligned cell with data | This is also a center-aligned cell with data | This is also a right-aligned cell with data |
